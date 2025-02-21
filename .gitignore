@@ -1,7 +1,2 @@
-parliament_divisions_combined.csv    
-parliament_divisions.csvparliament_divisions.csv
-parliament_divisions_combined.csv
-*.csv # This will ignore all CSV files - modify if you want to keep some CSVs
 parliament_divisions.csv
 parliament_divisions_combined.csv
-*.csv
